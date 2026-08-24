@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T07:14:24.457Z",
+  "generated_at": "2026-09-19T07:14:26.360Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -26,6 +26,41 @@
       "last_pushed_at": "2026-07-18T16:35:33.218Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-08-24T18:24:07.324Z",
+      "last_pushed_at": "2026-08-24T18:24:07.324Z",
+      "language": "python",
+      "lines": 10
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-08-24T18:26:03.190Z",
+      "last_pushed_at": "2026-08-24T18:26:03.190Z"
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-08-24T18:27:25.080Z",
+      "last_pushed_at": "2026-08-24T18:27:25.080Z"
     }
   }
 }
