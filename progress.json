@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T07:14:31.658Z",
+  "generated_at": "2026-09-19T07:14:33.236Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -100,6 +100,84 @@
       "last_pushed_at": "2026-08-30T06:02:12.778Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-09-01T06:47:22.726Z",
+      "last_pushed_at": "2026-09-01T06:47:22.726Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-09-01T06:51:03.378Z",
+      "last_pushed_at": "2026-09-01T06:51:03.378Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-09-01T07:07:34.441Z",
+      "last_pushed_at": "2026-09-01T07:07:34.441Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:70": {
+      "kind": "problem",
+      "id": "70",
+      "title": "Calculate Image Brightness",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/70",
+      "path": "problems/0070-calculate-image-brightness",
+      "first_solved_at": "2026-09-01T07:16:56.905Z",
+      "last_pushed_at": "2026-09-01T07:16:56.905Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:1101": {
+      "kind": "problem",
+      "id": "1101",
+      "title": "SELECT all rows",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1101",
+      "path": "problems/1101-select-all-rows",
+      "first_solved_at": "2026-09-01T07:19:29.595Z",
+      "last_pushed_at": "2026-09-01T07:19:29.595Z",
+      "language": "sql",
+      "lines": 3
+    },
+    "problem:1102": {
+      "kind": "problem",
+      "id": "1102",
+      "title": "Select specific columns",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1102",
+      "path": "problems/1102-select-specific-columns",
+      "first_solved_at": "2026-09-01T07:20:14.083Z",
+      "last_pushed_at": "2026-09-01T07:20:14.083Z",
+      "language": "sql",
+      "lines": 4
     }
   }
 }
