@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T07:14:35.119Z",
+  "generated_at": "2026-09-19T07:14:36.726Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -204,6 +204,45 @@
       "last_pushed_at": "2026-09-03T06:15:56.014Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-09-04T07:04:01.008Z",
+      "last_pushed_at": "2026-09-04T07:04:01.008Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:1103": {
+      "kind": "problem",
+      "id": "1103",
+      "title": "Filter rows with WHERE",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1103",
+      "path": "problems/1103-filter-rows-with-where",
+      "first_solved_at": "2026-09-04T07:05:18.732Z",
+      "last_pushed_at": "2026-09-04T07:05:18.732Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1104": {
+      "kind": "problem",
+      "id": "1104",
+      "title": "Sort results with ORDER BY",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1104",
+      "path": "problems/1104-sort-results-with-order-by",
+      "first_solved_at": "2026-09-04T07:07:26.596Z",
+      "last_pushed_at": "2026-09-04T07:07:26.596Z",
+      "language": "sql",
+      "lines": 4
     }
   }
 }
