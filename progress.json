@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T07:14:36.726Z",
+  "generated_at": "2026-09-19T07:14:38.388Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -243,6 +243,32 @@
       "last_pushed_at": "2026-09-04T07:07:26.596Z",
       "language": "sql",
       "lines": 4
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-09-05T05:26:56.576Z",
+      "last_pushed_at": "2026-09-05T05:26:56.576Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:320": {
+      "kind": "problem",
+      "id": "320",
+      "title": "Calculate Perplexity for Language Models",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/320",
+      "path": "problems/0320-calculate-perplexity-for-language-models",
+      "first_solved_at": "2026-09-05T05:28:55.890Z",
+      "last_pushed_at": "2026-09-05T05:28:55.890Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
