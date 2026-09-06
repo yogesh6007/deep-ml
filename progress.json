@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T07:14:38.388Z",
+  "generated_at": "2026-09-19T07:14:40.088Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -269,6 +269,32 @@
       "last_pushed_at": "2026-09-05T05:28:55.890Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2026-09-06T05:18:24.492Z",
+      "last_pushed_at": "2026-09-06T05:18:24.492Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:474": {
+      "kind": "problem",
+      "id": "474",
+      "title": "Off-Policy Monte Carlo Control with Weighted Importance Sampling",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/474",
+      "path": "problems/0474-off-policy-monte-carlo-control-with-weighted-importance-sampling",
+      "first_solved_at": "2026-09-06T19:10:06.959Z",
+      "last_pushed_at": "2026-09-06T19:10:06.959Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }
