@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T07:14:49.868Z",
+  "generated_at": "2026-09-19T07:14:51.542Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -373,6 +373,32 @@
       "last_pushed_at": "2026-09-12T06:13:40.887Z",
       "language": "python",
       "lines": 66
+    },
+    "problem:1106": {
+      "kind": "problem",
+      "id": "1106",
+      "title": "Top N with LIMIT",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1106",
+      "path": "problems/1106-top-n-with-limit",
+      "first_solved_at": "2026-09-14T04:08:17.895Z",
+      "last_pushed_at": "2026-09-14T04:08:17.895Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1387": {
+      "kind": "problem",
+      "id": "1387",
+      "title": "Looped Transformer Stack Forward Pass",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1387",
+      "path": "problems/1387-looped-transformer-stack-forward-pass",
+      "first_solved_at": "2026-09-14T04:09:40.927Z",
+      "last_pushed_at": "2026-09-14T04:09:40.927Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
