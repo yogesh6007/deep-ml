@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**34** solved · 32 problems · 0 labs · 2 math
+**35** solved · 33 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -35,6 +35,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-09-04 | [solution](problems/1104-sort-results-with-order-by) |
 | [Top N with LIMIT](https://www.deep-ml.com/problems/1106) | easy | 2026-09-14 | [solution](problems/1106-top-n-with-limit) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-07-18 | [solution](problems/0002-transpose-of-a-matrix) |
+| [BIRCH Clustering for Large Datasets](https://www.deep-ml.com/problems/825) | medium | 2026-09-20 | [solution](problems/0825-birch-clustering-for-large-datasets) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-09-10 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-09-07 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
 | [Looped Transformer Stack Forward Pass](https://www.deep-ml.com/problems/1387) | medium | 2026-09-14 | [solution](problems/1387-looped-transformer-stack-forward-pass) |
