@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**46** solved · 44 problems · 0 labs · 2 math
+**47** solved · 45 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-07-18 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-09-05 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Rejection Sampling Best-of-K Selection](https://www.deep-ml.com/problems/768) | easy | 2026-09-21 | [solution](problems/0768-rejection-sampling-best-of-k-selection) |
+| [Remove duplicates with DISTINCT](https://www.deep-ml.com/problems/1105) | easy | 2026-09-21 | [solution](problems/1105-remove-duplicates-with-distinct) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-08-24 | [solution](problems/0003-reshape-matrix) |
 | [Row-Normalize a Count Matrix to Probabilities](https://www.deep-ml.com/problems/985) | easy | 2026-09-03 | [solution](problems/0985-row-normalize-a-count-matrix-to-probabilities) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-08-25 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
