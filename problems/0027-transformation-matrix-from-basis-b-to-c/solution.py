@@ -1,0 +1,6 @@
+import numpy as np
+def transform_basis(B: list[list[int]], C: list[list[int]]) -> list[list[float]]:
+    B = np.array(B, dtype=float)
+    C = np.array(C, dtype=float)
+    P = np.linalg.inv(C) @ B    
+    return [[round(x, 4) for x in row] for row in P]
