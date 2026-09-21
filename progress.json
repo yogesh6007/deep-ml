@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T11:54:47.183Z",
+  "generated_at": "2026-09-21T11:55:51.424Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -581,6 +581,19 @@
       "last_pushed_at": "2026-09-21T11:54:47.074Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:1128": {
+      "kind": "problem",
+      "id": "1128",
+      "title": "Handle Missing Data in pandas (dropna/fillna)",
+      "difficulty": "easy",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/1128",
+      "path": "problems/1128-handle-missing-data-in-pandas-dropna-fillna",
+      "first_solved_at": "2026-09-21T11:55:51.497Z",
+      "last_pushed_at": "2026-09-21T11:55:51.497Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
