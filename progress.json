@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T11:52:19.700Z",
+  "generated_at": "2026-09-21T11:53:00.824Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -540,6 +540,19 @@
       "path": "problems/0116-derivative-of-a-polynomial",
       "first_solved_at": "2026-09-21T11:52:19.855Z",
       "last_pushed_at": "2026-09-21T11:52:19.855Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:82": {
+      "kind": "problem",
+      "id": "82",
+      "title": "Grayscale Image Contrast Calculator",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/82",
+      "path": "problems/0082-grayscale-image-contrast-calculator",
+      "first_solved_at": "2026-09-21T11:53:00.624Z",
+      "last_pushed_at": "2026-09-21T11:53:00.624Z",
       "language": "python",
       "lines": 4
     }
