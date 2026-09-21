@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**44** solved · 42 problems · 0 labs · 2 math
+**45** solved · 43 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-09-21 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-09-04 | [solution](problems/0016-feature-scaling-implementation) |
 | [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-09-04 | [solution](problems/1103-filter-rows-with-where) |
+| [Flip an Image Horizontally or Vertically](https://www.deep-ml.com/problems/238) | easy | 2026-09-21 | [solution](problems/0238-flip-an-image-horizontally-or-vertically) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2026-09-21 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-09-08 | [solution](problems/0114-implement-global-average-pooling) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-09-06 | [solution](problems/0043-implement-ridge-regression-loss-function) |
