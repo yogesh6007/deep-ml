@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**48** solved · 46 problems · 0 labs · 2 math
+**49** solved · 47 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Average per group](https://www.deep-ml.com/problems/1108) | easy | 2026-09-21 | [solution](problems/1108-average-per-group) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-09-21 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Build an MLP with nn.Sequential](https://www.deep-ml.com/problems/887) | easy | 2026-09-15 | [solution](problems/0887-build-an-mlp-with-nn-sequential) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-09-01 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
