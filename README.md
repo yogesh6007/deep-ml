@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**43** solved · 41 problems · 0 labs · 2 math
+**44** solved · 42 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-09-01 | [solution](problems/0070-calculate-image-brightness) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-09-01 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-09-05 | [solution](problems/0320-calculate-perplexity-for-language-models) |
+| [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-09-21 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-09-21 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-09-04 | [solution](problems/0016-feature-scaling-implementation) |
 | [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-09-04 | [solution](problems/1103-filter-rows-with-where) |
