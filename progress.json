@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T06:00:11.733Z",
+  "generated_at": "2026-09-23T06:00:26.561Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -669,7 +669,7 @@
       "url": "https://www.deep-ml.com/problems/1342",
       "path": "problems/1342-trade-compute-for-memory-with-gradient-checkpointing",
       "first_solved_at": "2026-09-23T06:00:11.538Z",
-      "last_pushed_at": "2026-09-23T06:00:11.538Z",
+      "last_pushed_at": "2026-09-23T06:00:26.922Z",
       "language": "python",
       "lines": 10
     }
