@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T07:54:38.717Z",
+  "generated_at": "2026-09-25T03:30:26.502Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -685,6 +685,19 @@
       "last_pushed_at": "2026-09-24T07:54:39.721Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:303": {
+      "kind": "problem",
+      "id": "303",
+      "title": "Forward Diffusion Process",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/303",
+      "path": "problems/0303-forward-diffusion-process",
+      "first_solved_at": "2026-09-25T03:30:27.373Z",
+      "last_pushed_at": "2026-09-25T03:30:27.373Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
